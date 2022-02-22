@@ -1,0 +1,79 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "level1-1",
+		"player1": "luigi",
+		"player2": "mario85",
+		"player3": null,
+		"events": [
+			[
+				43909.0909090909,
+				[
+					[
+						"Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				65909.0909090909,
+				[
+					[
+						"Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				87818.1818181819,
+				[
+					[
+						"Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				120727.272727273,
+				[
+					[
+						"Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				131684.090909091,
+				[
+					[
+						"Flash",
+						"flash",
+						"0.1"
+					]
+				]
+			],
+			[
+				131727.272727273,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "arbust",
+		"bpm": 165,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Fighting_Back"
+	}
+}
