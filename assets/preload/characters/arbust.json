@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-190,
+				-360
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle A"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/arbust",
+	"position": [
+		-280,
+		90
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

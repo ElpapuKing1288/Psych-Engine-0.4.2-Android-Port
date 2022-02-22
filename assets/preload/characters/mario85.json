@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-386,
+				178
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle M"
+		},
+		{
+			"offsets": [
+				-387,
+				168
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "singDOWN M"
+		},
+		{
+			"offsets": [
+				-399,
+				247
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "singUP M"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-375,
+				174
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "singRIGHT M",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-506,
+				152
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "singLEFT M",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mario85",
+	"position": [
+		0,
+		-30
+	],
+	"healthicon": "M85",
+	"flip_x": false,
+	"healthbar_colors": [
+		155,
+		0,
+		0
+	],
+	"camera_position": [
+		20,
+		-100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
